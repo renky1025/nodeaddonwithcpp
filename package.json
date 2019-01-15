@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kangyao Ren <renky_1025@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-gyp": "^3.8.0"
+  }
+}
